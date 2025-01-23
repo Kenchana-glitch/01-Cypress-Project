@@ -1,0 +1,16 @@
+{
+  "name": "01-cypress-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private":true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  }
+}
